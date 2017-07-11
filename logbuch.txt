@@ -1,5 +1,7 @@
 tag1 logbuch
 
 function test() {
+
  echo hallo Welt!
+ echo 2. hello Welt!
 }
