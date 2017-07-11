@@ -4,5 +4,6 @@ function test() {
 
  echo hallo Welt!
  echo FTI1 ist voll cool!
+ echo ich bin aus dem Internet
 
 }
